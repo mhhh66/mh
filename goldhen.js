@@ -1,0 +1,1 @@
+// Simulated GoldHEN payload logic
